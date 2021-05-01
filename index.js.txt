@@ -2,4 +2,4 @@ javascript file
 
 add document ready event 
 
-add onClick
+add onClickcdc

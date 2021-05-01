@@ -1,1 +1,3 @@
 javascript file
+
+add document ready event 
